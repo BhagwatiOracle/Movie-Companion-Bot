@@ -12,7 +12,7 @@ This system is then integrated as a custom tool with other tools into a **LangCh
 
 
 
-![alt text](<ChatBot UI.png>)
+
 
 ___
 
@@ -80,6 +80,10 @@ TMDB_API_KEY=your_api_key_here
 ```
 streamlit run App.py
 ```
+
+![alt text](<ChatBot UI.png>)
+
+___
 
 # 🤝 Contribution
 Contributions are welcome! Please fork the repo, make changes, and open a pull request. Feel free to open issues for bugs or suggestions.
