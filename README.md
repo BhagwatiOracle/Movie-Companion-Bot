@@ -9,7 +9,10 @@ The recommendation system is built using **scikit-learn** and trained on the TMD
 This system is then integrated as a custom tool with other tools into a **LangChain AI agent**, allowing the bot to smartly decide when to use the recommendation engine, fetch genre-based results, or provide popular movie suggestions. 
 
 
-![Reference Image](ChatBot UI.png)
+
+
+
+![alt text](<ChatBot UI.png>)
 
 ___
 
