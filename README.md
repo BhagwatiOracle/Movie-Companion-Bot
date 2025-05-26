@@ -30,7 +30,7 @@ ___
 
 # ⚙️ Setup Instructions
 
-1. Clone the repo
+**1. Clone the repo**
 
 ```bash 
 git clone https://github.com/BhagwatiOracle/Movie-Companion-Bot.git
@@ -38,19 +38,19 @@ git clone https://github.com/BhagwatiOracle/Movie-Companion-Bot.git
 cd movie-companion-bot
 
 ```
-2. Create virtual environment
+**2. Create virtual environment**
 ```bash
 python -m venv venv
 
 venv\Scripts\Activate
 ```
-3. Install dependencies
+**3. Install dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Groq API Key
+**4. Groq API Key**
 
 * Go to https://console.groq.com/keys?ref=zinyando.com
 
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 GROQ_API_KEY=your_api_key
 ```
 
-5. TMDB_API_KEY
+**5. TMDB_API_KEY**
 
 * Go to https://www.themoviedb.org
 
@@ -73,7 +73,7 @@ GROQ_API_KEY=your_api_key
 TMDB_API_KEY=your_api_key_here
 ```
 
-6. Run the app
+**6. Run the app**
 ```
 streamlit run App.py
 ```
